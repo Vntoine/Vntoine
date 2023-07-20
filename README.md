@@ -1,6 +1,6 @@
 <h1 align="center"><b>👋 Bonjour !</b></h1>
 <br><p>Jeune développeur de 19 ans, actuellement je m'intéresse au développement mobile sur <strong><a href="https://flutter.dev/">Flutter</a></strong>,
-je fais mes premiers pas dans la culture DevOps (Docker,K8S)
+je découvre aussi la culture DevOps (Docker,K8S)
 </p>
 <h2>🖥 Langages</h2>
 <p align="left">
