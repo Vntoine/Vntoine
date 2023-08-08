@@ -1,4 +1,4 @@
-<h1 align="center"><b>👋 Bonjour !</b></h1>
+<h1 align="center"><b>👋🏻 Bonjour !</b></h1>
 <br><p>Développeur de 19 ans, actuellement je m'intéresse au développement mobile sur <strong><a href="https://flutter.dev/">Flutter</a></strong>,
 je découvre aussi la culture DevOps (Docker,K8S)
 </p>
