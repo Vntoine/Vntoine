@@ -25,4 +25,4 @@ je découvre aussi la culture DevOps (Docker,K8S)
   <img src="" alt="" width="30" height"30">
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=vntoine&show_icons=true&theme=dark&custom_title=😎%20Mes%20statistiques" alt="My personal stats">
+
