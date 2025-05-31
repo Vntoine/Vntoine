@@ -1,5 +1,4 @@
 <h1 align="center"><b>👋🏻 Bonjour !</b></h1>
-<br>
 <h2>🖥 Langages</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height"30">
